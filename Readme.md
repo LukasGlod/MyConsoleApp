@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/webinnovationssk/Web%20Innovations/_apis/build/status/LukasGlod.MyConsoleApp?branchName=master)](https://dev.azure.com/webinnovationssk/Web%20Innovations/_build/latest?definitionId=3&branchName=master)
